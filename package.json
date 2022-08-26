@@ -18,7 +18,9 @@
     "@hookform/resolvers": "^2.9.7",
     "@mui/material": "^5.9.2",
     "@types/faker": "^6.6.9",
+    "add": "^2.0.6",
     "apexcharts": "^3.35.3",
+    "axios": "^0.27.2",
     "emotion-theming": "^11.0.0",
     "faker": "^6.6.6",
     "framer-motion": "^7.0.0",
@@ -29,6 +31,7 @@
     "react-hook-form": "^7.34.0",
     "react-icons": "^4.4.0",
     "react-query": "^3.39.2",
+    "yarn": "^1.22.19",
     "yup": "^0.32.11"
   },
   "devDependencies": {
